@@ -132,10 +132,9 @@ I've included a checklist that you can use to work through the list below:
 - [X] Same Tree - [https://leetcode.com/problems/same-tree/](https://leetcode.com/problems/same-tree/)  
 - [X] Invert/Flip Binary Tree - [https://leetcode.com/problems/invert-binary-tree/](https://leetcode.com/problems/invert-binary-tree/)  
 - [X] Binary Tree Maximum Path Sum - [https://leetcode.com/problems/binary-tree-maximum-path-sum/](https://leetcode.com/problems/binary-tree-maximum-path-sum/)  
+
 - [X] Binary Tree Level Order Traversal - [https://leetcode.com/problems/binary-tree-level-order-traversal/](https://leetcode.com/problems/binary-tree-level-order-traversal/)  
 - [X] Serialize and Deserialize Binary Tree - [https://leetcode.com/problems/serialize-and-deserialize-binary-tree/](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  
-
-
 - [X] Subtree of Another Tree - [https://leetcode.com/problems/subtree-of-another-tree/](https://leetcode.com/problems/subtree-of-another-tree/)  
 - [X] Construct Binary Tree from Preorder and Inorder Traversal - [https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  
 - [X] Validate Binary Search Tree - [https://leetcode.com/problems/validate-binary-search-tree/](https://leetcode.com/problems/validate-binary-search-tree/)  
