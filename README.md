@@ -140,9 +140,8 @@ I've included a checklist that you can use to work through the list below:
 - [X] Kth Smallest Element in a BST - [https://leetcode.com/problems/kth-smallest-element-in-a-bst/](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)  
 - [X] Lowest Common Ancestor of BST - [https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)  
 - [X] Implement Trie (Prefix Tree) - [https://leetcode.com/problems/implement-trie-prefix-tree/](https://leetcode.com/problems/implement-trie-prefix-tree/)  
+
 - [X] Add and Search Word - [https://leetcode.com/problems/add-and-search-word-data-structure-design/](https://leetcode.com/problems/add-and-search-word-data-structure-design/)  
-
-
 - [X] Word Search II - [https://leetcode.com/problems/word-search-ii/](https://leetcode.com/problems/word-search-ii/)
 
 ---
