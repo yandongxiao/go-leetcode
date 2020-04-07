@@ -1,57 +1,41 @@
 package word_search_79
 
-import (
-	"strings"
-)
-
 // Time: O(N * 4^(L (len of word)))
 // Space: O(L) recursion stack at most L
 func exist(board [][]byte, word string) bool {
-	for r := 0; r < len(board); r++ {
-		for c := 0; c < len(board[r]); c++ {
-			if word[0] == board[r][c] && explore(board, word, 0, r, c) {
+	for i := 0; i < len(board); i++ {
+		for j := 0; j < len(board[i]); j++ {
+			if helper(board, word, 0, i, j) {
 				return true
 			}
 		}
 	}
-
 	return false
 }
 
-func explore(board [][]byte, word string, step, r, c int) bool {
-	// if the step is equal to the length of word, then word exists
+func helper(board [][]byte, word string, step int, i int, j int) bool {
 	if step == len(word) {
 		return true
 	}
 
-	// if r or c are out of bounds
-	if r < 0 || c < 0 || r >= len(board) || c >= len(board[0]) {
+	if i < 0 || j < 0 || i >= len(board) || j >= len(board[i]) {
 		return false
 	}
 
-	// if the character at the step is not the next character in word
-	if word[step] != board[r][c] {
+	if board[i][j] != word[step] {
 		return false
 	}
 
-	// if the character has been seen before
-	if strings.HasPrefix(string(board[r][c]), "_") {
-		return false
+	original := board[i][j]
+	board[i][j] = '_'
+
+	if helper(board, word, step+1, i+1, j) ||
+		helper(board, word, step+1, i-1, j) ||
+		helper(board, word, step+1, i, j+1) ||
+		helper(board, word, step+1, i, j-1) {
+		return true
 	}
 
-	// choose to mark the character as seen
-	original := board[r][c]
-	board[r][c] = '_' + original
-
-	// explore each direction in search for word
-	// short circuit recursion when we've found word
-	exists := explore(board, word, step+1, r-1, c) ||
-		explore(board, word, step+1, r+1, c) ||
-		explore(board, word, step+1, r, c-1) ||
-		explore(board, word, step+1, r, c+1)
-
-	// un-choose the character
-	board[r][c] = original
-
-	return exists
+	board[i][j] = original
+	return false
 }
