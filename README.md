@@ -147,6 +147,6 @@ I've included a checklist that you can use to work through the list below:
 
 #### Heap
 
-- [X] Merge K Sorted Lists - [https://leetcode.com/problems/merge-k-sorted-lists/](https://leetcode.com/problems/merge-k-sorted-lists/)  
+- [X] Merge K Sorted Lists - [https://leetcode.com/problems/merge-k-sorted-lists/](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [X] Top K Frequent Elements - [https://leetcode.com/problems/top-k-frequent-elements/](https://leetcode.com/problems/top-k-frequent-elements/)  
 - [X] Find Median from Data Stream - [https://leetcode.com/problems/find-median-from-data-stream/](https://leetcode.com/problems/find-median-from-data-stream/)
