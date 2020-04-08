@@ -118,8 +118,6 @@ I've included a checklist that you can use to work through the list below:
 #### Linked List
 
 - [X] Reverse a Linked List - [https://leetcode.com/problems/reverse-linked-list/](https://leetcode.com/problems/reverse-linked-list/)
-
-
 - [X] Detect Cycle in a Linked List - [https://leetcode.com/problems/linked-list-cycle/](https://leetcode.com/problems/linked-list-cycle/)  
 - [X] Merge Two Sorted Lists - [https://leetcode.com/problems/merge-two-sorted-lists/](https://leetcode.com/problems/merge-two-sorted-lists/)  
 - [X] Merge K Sorted Lists - [https://leetcode.com/problems/merge-k-sorted-lists/](https://leetcode.com/problems/merge-k-sorted-lists/)  
