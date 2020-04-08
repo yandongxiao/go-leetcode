@@ -91,17 +91,6 @@ I've included a checklist that you can use to work through the list below:
 
 ---
 
-#### Linked List
-
-- [X] Reverse a Linked List - [https://leetcode.com/problems/reverse-linked-list/](https://leetcode.com/problems/reverse-linked-list/)  
-- [X] Detect Cycle in a Linked List - [https://leetcode.com/problems/linked-list-cycle/](https://leetcode.com/problems/linked-list-cycle/)  
-- [X] Merge Two Sorted Lists - [https://leetcode.com/problems/merge-two-sorted-lists/](https://leetcode.com/problems/merge-two-sorted-lists/)  
-- [X] Merge K Sorted Lists - [https://leetcode.com/problems/merge-k-sorted-lists/](https://leetcode.com/problems/merge-k-sorted-lists/)  
-- [X] Remove Nth Node From End Of List - [https://leetcode.com/problems/remove-nth-node-from-end-of-list/](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  
-- [X] Reorder List - [https://leetcode.com/problems/reorder-list/](https://leetcode.com/problems/reorder-list/)
-
----
-
 #### Matrix
 
 - [X] Set Matrix Zeroes - [https://leetcode.com/problems/set-matrix-zeroes/](https://leetcode.com/problems/set-matrix-zeroes/)  
@@ -116,13 +105,26 @@ I've included a checklist that you can use to work through the list below:
 - [X] Longest Substring Without Repeating Characters - [https://leetcode.com/problems/longest-substring-without-repeating-characters/](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  
 - [X] Longest Repeating Character Replacement - [https://leetcode.com/problems/longest-repeating-character-replacement/](https://leetcode.com/problems/longest-repeating-character-replacement/)  
 - [X] Minimum Window Substring - [https://leetcode.com/problems/minimum-window-substring/](https://leetcode.com/problems/minimum-window-substring/)  
-- [X] Valid Anagram - [https://leetcode.com/problems/valid-anagram/](https://leetcode.com/problems/valid-anagram/)  
-- [X] Group Anagrams - [https://leetcode.com/problems/group-anagrams/](https://leetcode.com/problems/group-anagrams/)  
-- [X] Valid Parentheses - [https://leetcode.com/problems/valid-parentheses/](https://leetcode.com/problems/valid-parentheses/)  
-- [X] Valid Palindrome - [https://leetcode.com/problems/valid-palindrome/](https://leetcode.com/problems/valid-palindrome/)  
-- [X] Longest Palindromic Substring - [https://leetcode.com/problems/longest-palindromic-substring/](https://leetcode.com/problems/longest-palindromic-substring/)  
-- [X] Palindromic Substrings - [https://leetcode.com/problems/palindromic-substrings/](https://leetcode.com/problems/palindromic-substrings/)  
+- [X] Valid Anagram - [https://leetcode.com/problems/valid-anagram/](https://leetcode.com/problems/valid-anagram/)
+- [X] Group Anagrams - [https://leetcode.com/problems/group-anagrams/](https://leetcode.com/problems/group-anagrams/)
+- [X] Valid Parentheses - [https://leetcode.com/problems/valid-parentheses/](https://leetcode.com/problems/valid-parentheses/)
+- [X] Valid Palindrome - [https://leetcode.com/problems/valid-palindrome/](https://leetcode.com/problems/valid-palindrome/)
+- [X] Longest Palindromic Substring - [https://leetcode.com/problems/longest-palindromic-substring/](https://leetcode.com/problems/longest-palindromic-substring/)
+- [X] Palindromic Substrings - [https://leetcode.com/problems/palindromic-substrings/](https://leetcode.com/problems/palindromic-substrings/)
 - [X] Encode and Decode Strings (Leetcode Premium) - [https://leetcode.com/problems/encode-and-decode-strings/](https://leetcode.com/problems/encode-and-decode-strings/)
+
+---
+
+#### Linked List
+
+- [X] Reverse a Linked List - [https://leetcode.com/problems/reverse-linked-list/](https://leetcode.com/problems/reverse-linked-list/)
+
+
+- [X] Detect Cycle in a Linked List - [https://leetcode.com/problems/linked-list-cycle/](https://leetcode.com/problems/linked-list-cycle/)  
+- [X] Merge Two Sorted Lists - [https://leetcode.com/problems/merge-two-sorted-lists/](https://leetcode.com/problems/merge-two-sorted-lists/)  
+- [X] Merge K Sorted Lists - [https://leetcode.com/problems/merge-k-sorted-lists/](https://leetcode.com/problems/merge-k-sorted-lists/)  
+- [X] Remove Nth Node From End Of List - [https://leetcode.com/problems/remove-nth-node-from-end-of-list/](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  
+- [X] Reorder List - [https://leetcode.com/problems/reorder-list/](https://leetcode.com/problems/reorder-list/)
 
 ---
 
