@@ -1,6 +1,6 @@
 # go-leetcode
 
-A collection of 100+ popular [LeetCode](https://leetcode.com/) problems that I've solved in 
+A collection of 100+ popular [LeetCode](https://leetcode.com/) problems that I've solved in
 [Go](https://golang.org/).
 
 Each directory includes a:
@@ -8,29 +8,31 @@ Each directory includes a:
 - Solution to the problem
 - A unit test
 
-Note that each of these problems **have passed** their respective test cases on LeetCode. The unit 
-tests included with each solution in this repo are not comprehensive. They serve as a quick way to 
-drop in a test case, hook up the debugger, and step through the algorithms to build understanding. 
+Note that each of these problems **have passed** their respective test cases on LeetCode. The unit
+tests included with each solution in this repo are not comprehensive. They serve as a quick way to
+drop in a test case, hook up the debugger, and step through the algorithms to build understanding.
 
-Also note that some of my personal comments are in the solutions. I'll be working to clean up 
+Also note that some of my personal comments are in the solutions. I'll be working to clean up
 anything that is not insightful.
 
 ## Problems
 
 There are a variety of popular LeetCode problems solved in this repository. However, most of the problems
-solved are from a highly recommended, curated list of problems called 
+solved are from a highly recommended, curated list of problems called
 [Top 75 LeetCode Problems](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU).
 
-The [Top 75 LeetCode Problems](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) 
-list is comprehensive, covering a decent breadth and depth for each category. Working through that list will certainly 
+The [Top 75 LeetCode Problems](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+list is comprehensive, covering a decent breadth and depth for each category. Working through that list will certainly
 help build the core concepts, techniques, and intuition needed to solve these types of problems.
 
 I've included a checklist that you can use to work through the list below:
 
 #### Array
 
-- [X] Two Sum - [https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/two-sum/)  
+- [X] Two Sum - [https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/two-sum/)
 - [X] Best Time to Buy and Sell Stock - [https://leetcode.com/problems/best-time-to-buy-and-sell-stock/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  
+
+
 - [X] Contains Duplicate - [https://leetcode.com/problems/contains-duplicate/](https://leetcode.com/problems/contains-duplicate/)  
 - [X] Product of Array Except Self - [https://leetcode.com/problems/product-of-array-except-self/](https://leetcode.com/problems/product-of-array-except-self/)  
 - [X] Maximum Subarray - [https://leetcode.com/problems/maximum-subarray/](https://leetcode.com/problems/maximum-subarray/)  
