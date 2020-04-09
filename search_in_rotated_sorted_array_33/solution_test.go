@@ -1,8 +1,9 @@
 package search_in_rotated_sorted_array_33
 
 import (
-	"github.com/stretchr/testify/assert"
 	"testing"
+
+	"github.com/stretchr/testify/assert"
 )
 
 func Test_search(t *testing.T) {
@@ -15,54 +16,6 @@ func Test_search(t *testing.T) {
 		args args
 		want int
 	}{
-		{
-			name: "search in rotated sorted array",
-			args: args{
-				nums:   []int{},
-				target: 10,
-			},
-			want: -1,
-		},
-		{
-			name: "search in rotated sorted array",
-			args: args{
-				nums: []int{
-					8, 9, 2, 3, 4,
-				},
-				target: 9,
-			},
-			want: 1,
-		},
-		{
-			name: "search in rotated sorted array",
-			args: args{
-				nums: []int{
-					10,
-				},
-				target: 1,
-			},
-			want: -1,
-		},
-		{
-			name: "search in rotated sorted array",
-			args: args{
-				nums: []int{
-					10,
-				},
-				target: 10,
-			},
-			want: 0,
-		},
-		{
-			name: "search in rotated sorted array",
-			args: args{
-				nums: []int{
-					1, 3,
-				},
-				target: 4,
-			},
-			want: -1,
-		},
 		{
 			name: "search in rotated sorted array",
 			args: args{
