@@ -1,8 +1,9 @@
 package contains_duplicate_217
 
 import (
-	"github.com/stretchr/testify/assert"
 	"testing"
+
+	"github.com/stretchr/testify/assert"
 )
 
 func Test_containsDuplicate(t *testing.T) {
@@ -18,7 +19,7 @@ func Test_containsDuplicate(t *testing.T) {
 			name: "contains duplicate",
 			args: args{
 				nums: []int{
-					1, 2, 3, 1,
+					66, 2, 3, 66,
 				},
 			},
 			want: true,
