@@ -1,7 +1,6 @@
 package best_time_to_buy_and_sell_stock_121
 
-import "math"
-
+/*
 // O(n) time and O(1) space
 func maxProfit2(prices []int) int {
 	maxProfit := 0
@@ -37,3 +36,4 @@ func maxProfit(prices []int) int {
 
 	return maxProfit
 }
+*/
