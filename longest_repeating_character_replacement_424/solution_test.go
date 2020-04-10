@@ -19,7 +19,31 @@ func Test_characterReplacement(t *testing.T) {
 		{
 			name: "longest repeating character replacement",
 			args: args{
+				s: "AABABBA",
+				k: 1,
+			},
+			want: 4,
+		},
+		{
+			name: "longest repeating character replacement",
+			args: args{
+				s: "BAAAB",
+				k: 2,
+			},
+			want: 5,
+		},
+		{
+			name: "longest repeating character replacement",
+			args: args{
 				s: "ABBB",
+				k: 2,
+			},
+			want: 4,
+		},
+		{
+			name: "longest repeating character replacement",
+			args: args{
+				s: "ABAB",
 				k: 2,
 			},
 			want: 4,

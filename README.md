@@ -27,31 +27,6 @@ help build the core concepts, techniques, and intuition needed to solve these ty
 
 I've included a checklist that you can use to work through the list below:
 
-#### Array
-
-- [X] Two Sum - [https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/two-sum/)
-- [X] Best Time to Buy and Sell Stock - [https://leetcode.com/problems/best-time-to-buy-and-sell-stock/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  
-- [X] Contains Duplicate - [https://leetcode.com/problems/contains-duplicate/](https://leetcode.com/problems/contains-duplicate/)  
-- [X] Product of Array Except Self - [https://leetcode.com/problems/product-of-array-except-self/](https://leetcode.com/problems/product-of-array-except-self/)  
-- [X] Maximum Subarray - [https://leetcode.com/problems/maximum-subarray/](https://leetcode.com/problems/maximum-subarray/)  
-- [X] Maximum Product Subarray - [https://leetcode.com/problems/maximum-product-subarray/](https://leetcode.com/problems/maximum-product-subarray/)  
-- [X] Find Minimum in Rotated Sorted Array - [https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)  
-- [X] Search in Rotated Sorted Array - [https://leetcode.com/problems/search-in-rotated-sorted-array/](https://leetcode.com/problems/search-in-rotated-sorted-array/)  
-- [X] 3Sum - [https://leetcode.com/problems/3sum/](https://leetcode.com/problems/3sum/)
-- [X] Container With Most Water - [https://leetcode.com/problems/container-with-most-water/](https://leetcode.com/problems/container-with-most-water/)
-
----
-
-#### Binary
-
-- [X] Sum of Two Integers - [https://leetcode.com/problems/sum-of-two-integers/](https://leetcode.com/problems/sum-of-two-integers/)  
-- [X] Number of 1 Bits - [https://leetcode.com/problems/number-of-1-bits/](https://leetcode.com/problems/number-of-1-bits/)  
-- [X] Counting Bits - [https://leetcode.com/problems/counting-bits/](https://leetcode.com/problems/counting-bits/)  
-- [X] Missing Number - [https://leetcode.com/problems/missing-number/](https://leetcode.com/problems/missing-number/)  
-- [X] Reverse Bits - [https://leetcode.com/problems/reverse-bits/](https://leetcode.com/problems/reverse-bits/)
-
----
-
 #### Dynamic Programming
 
 - [X] Climbing Stairs - [https://leetcode.com/problems/climbing-stairs/](https://leetcode.com/problems/climbing-stairs/)  
@@ -103,15 +78,43 @@ I've included a checklist that you can use to work through the list below:
 #### String
 
 - [X] Longest Substring Without Repeating Characters - [https://leetcode.com/problems/longest-substring-without-repeating-characters/](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  
-- [X] Longest Repeating Character Replacement - [https://leetcode.com/problems/longest-repeating-character-replacement/](https://leetcode.com/problems/longest-repeating-character-replacement/)  
-- [X] Minimum Window Substring - [https://leetcode.com/problems/minimum-window-substring/](https://leetcode.com/problems/minimum-window-substring/)  
 - [X] Valid Anagram - [https://leetcode.com/problems/valid-anagram/](https://leetcode.com/problems/valid-anagram/)
 - [X] Group Anagrams - [https://leetcode.com/problems/group-anagrams/](https://leetcode.com/problems/group-anagrams/)
+
+# TODO
+- [X] Longest Repeating Character Replacement - [https://leetcode.com/problems/longest-repeating-character-replacement/](https://leetcode.com/problems/longest-repeating-character-replacement/)
+- [X] Minimum Window Substring - [https://leetcode.com/problems/minimum-window-substring/](https://leetcode.com/problems/minimum-window-substring/)
+
 - [X] Valid Parentheses - [https://leetcode.com/problems/valid-parentheses/](https://leetcode.com/problems/valid-parentheses/)
 - [X] Valid Palindrome - [https://leetcode.com/problems/valid-palindrome/](https://leetcode.com/problems/valid-palindrome/)
 - [X] Longest Palindromic Substring - [https://leetcode.com/problems/longest-palindromic-substring/](https://leetcode.com/problems/longest-palindromic-substring/)
 - [X] Palindromic Substrings - [https://leetcode.com/problems/palindromic-substrings/](https://leetcode.com/problems/palindromic-substrings/)
 - [X] Encode and Decode Strings (Leetcode Premium) - [https://leetcode.com/problems/encode-and-decode-strings/](https://leetcode.com/problems/encode-and-decode-strings/)
+
+---
+
+#### Array
+
+- [X] Two Sum - [https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/two-sum/)
+- [X] Best Time to Buy and Sell Stock - [https://leetcode.com/problems/best-time-to-buy-and-sell-stock/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  
+- [X] Contains Duplicate - [https://leetcode.com/problems/contains-duplicate/](https://leetcode.com/problems/contains-duplicate/)  
+- [X] Product of Array Except Self - [https://leetcode.com/problems/product-of-array-except-self/](https://leetcode.com/problems/product-of-array-except-self/)  
+- [X] Maximum Subarray - [https://leetcode.com/problems/maximum-subarray/](https://leetcode.com/problems/maximum-subarray/)  
+- [X] Maximum Product Subarray - [https://leetcode.com/problems/maximum-product-subarray/](https://leetcode.com/problems/maximum-product-subarray/)  
+- [X] Find Minimum in Rotated Sorted Array - [https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)  
+- [X] Search in Rotated Sorted Array - [https://leetcode.com/problems/search-in-rotated-sorted-array/](https://leetcode.com/problems/search-in-rotated-sorted-array/)  
+- [X] 3Sum - [https://leetcode.com/problems/3sum/](https://leetcode.com/problems/3sum/)
+- [X] Container With Most Water - [https://leetcode.com/problems/container-with-most-water/](https://leetcode.com/problems/container-with-most-water/)
+
+---
+
+#### Binary
+
+- [X] Sum of Two Integers - [https://leetcode.com/problems/sum-of-two-integers/](https://leetcode.com/problems/sum-of-two-integers/)  
+- [X] Number of 1 Bits - [https://leetcode.com/problems/number-of-1-bits/](https://leetcode.com/problems/number-of-1-bits/)  
+- [X] Counting Bits - [https://leetcode.com/problems/counting-bits/](https://leetcode.com/problems/counting-bits/)  
+- [X] Missing Number - [https://leetcode.com/problems/missing-number/](https://leetcode.com/problems/missing-number/)  
+- [X] Reverse Bits - [https://leetcode.com/problems/reverse-bits/](https://leetcode.com/problems/reverse-bits/)
 
 ---
 
