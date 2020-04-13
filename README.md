@@ -69,6 +69,7 @@ I've included a checklist that you can use to work through the list below:
 #### Matrix
 
 - [X] Set Matrix Zeroes - [https://leetcode.com/problems/set-matrix-zeroes/](https://leetcode.com/problems/set-matrix-zeroes/)  
+
 - [X] Spiral Matrix - [https://leetcode.com/problems/spiral-matrix/](https://leetcode.com/problems/spiral-matrix/)  
 - [X] Rotate Image - [https://leetcode.com/problems/rotate-image/](https://leetcode.com/problems/rotate-image/)  
 - [X] Word Search - [https://leetcode.com/problems/word-search/](https://leetcode.com/problems/word-search/)
@@ -84,12 +85,11 @@ I've included a checklist that you can use to work through the list below:
 - [X] Valid Palindrome - [https://leetcode.com/problems/valid-palindrome/](https://leetcode.com/problems/valid-palindrome/)
 - [X] Longest Palindromic Substring - [https://leetcode.com/problems/longest-palindromic-substring/](https://leetcode.com/problems/longest-palindromic-substring/)
 - [X] Palindromic Substrings - [https://leetcode.com/problems/palindromic-substrings/](https://leetcode.com/problems/palindromic-substrings/)
+- [X] Encode and Decode Strings (Leetcode Premium) - [https://leetcode.com/problems/encode-and-decode-strings/](https://leetcode.com/problems/encode-and-decode-strings/)
 
 # TODO
 - [X] Longest Repeating Character Replacement - [https://leetcode.com/problems/longest-repeating-character-replacement/](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [X] Minimum Window Substring - [https://leetcode.com/problems/minimum-window-substring/](https://leetcode.com/problems/minimum-window-substring/)
-
-- [X] Encode and Decode Strings (Leetcode Premium) - [https://leetcode.com/problems/encode-and-decode-strings/](https://leetcode.com/problems/encode-and-decode-strings/)
 
 ---
 
