@@ -82,13 +82,13 @@ I've included a checklist that you can use to work through the list below:
 - [X] Group Anagrams - [https://leetcode.com/problems/group-anagrams/](https://leetcode.com/problems/group-anagrams/)
 - [X] Valid Parentheses - [https://leetcode.com/problems/valid-parentheses/](https://leetcode.com/problems/valid-parentheses/)
 - [X] Valid Palindrome - [https://leetcode.com/problems/valid-palindrome/](https://leetcode.com/problems/valid-palindrome/)
+- [X] Longest Palindromic Substring - [https://leetcode.com/problems/longest-palindromic-substring/](https://leetcode.com/problems/longest-palindromic-substring/)
+- [X] Palindromic Substrings - [https://leetcode.com/problems/palindromic-substrings/](https://leetcode.com/problems/palindromic-substrings/)
 
 # TODO
 - [X] Longest Repeating Character Replacement - [https://leetcode.com/problems/longest-repeating-character-replacement/](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [X] Minimum Window Substring - [https://leetcode.com/problems/minimum-window-substring/](https://leetcode.com/problems/minimum-window-substring/)
 
-- [X] Longest Palindromic Substring - [https://leetcode.com/problems/longest-palindromic-substring/](https://leetcode.com/problems/longest-palindromic-substring/)
-- [X] Palindromic Substrings - [https://leetcode.com/problems/palindromic-substrings/](https://leetcode.com/problems/palindromic-substrings/)
 - [X] Encode and Decode Strings (Leetcode Premium) - [https://leetcode.com/problems/encode-and-decode-strings/](https://leetcode.com/problems/encode-and-decode-strings/)
 
 ---
