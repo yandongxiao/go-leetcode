@@ -137,14 +137,15 @@ I've included a checklist that you can use to work through the list below:
 - [X] Binary Tree Maximum Path Sum - [https://leetcode.com/problems/binary-tree-maximum-path-sum/](https://leetcode.com/problems/binary-tree-maximum-path-sum/)  
 - [X] Binary Tree Level Order Traversal - [https://leetcode.com/problems/binary-tree-level-order-traversal/](https://leetcode.com/problems/binary-tree-level-order-traversal/)  
 - [X] Subtree of Another Tree - [https://leetcode.com/problems/subtree-of-another-tree/](https://leetcode.com/problems/subtree-of-another-tree/)  
-
 - [X] Validate Binary Search Tree - [https://leetcode.com/problems/validate-binary-search-tree/](https://leetcode.com/problems/validate-binary-search-tree/)  
-- [X] Serialize and Deserialize Binary Tree - [https://leetcode.com/problems/serialize-and-deserialize-binary-tree/](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  
-- [X] Construct Binary Tree from Preorder and Inorder Traversal - [https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  
 - [X] Kth Smallest Element in a BST - [https://leetcode.com/problems/kth-smallest-element-in-a-bst/](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 - [X] Lowest Common Ancestor of BST - [https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)  
+- [X] Construct Binary Tree from Preorder and Inorder Traversal - [https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  
 - [X] Implement Trie (Prefix Tree) - [https://leetcode.com/problems/implement-trie-prefix-tree/](https://leetcode.com/problems/implement-trie-prefix-tree/)  
 - [X] Add and Search Word - [https://leetcode.com/problems/add-and-search-word-data-structure-design/](https://leetcode.com/problems/add-and-search-word-data-structure-design/)  
+
+- [X] Serialize and Deserialize Binary Tree - [https://leetcode.com/problems/serialize-and-deserialize-binary-tree/](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  
+
 - [X] Word Search II - [https://leetcode.com/problems/word-search-ii/](https://leetcode.com/problems/word-search-ii/)
 
 ---
