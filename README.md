@@ -146,7 +146,6 @@ I've included a checklist that you can use to work through the list below:
 - [X] Word Search II - [https://leetcode.com/problems/word-search-ii/](https://leetcode.com/problems/word-search-ii/)
 - [X] Serialize and Deserialize Binary Tree - [https://leetcode.com/problems/serialize-and-deserialize-binary-tree/](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  
 
-
 ---
 
 #### Heap
