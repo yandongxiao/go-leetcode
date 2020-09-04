@@ -40,16 +40,14 @@ func topKFrequent(nums []int, k int) []int {
 		mapping[x]++
 	}
 
-	pq := make(PriorityQueue, len(mapping))
-	idx := 0
+	pq := make(PriorityQueue, k)
+	heap.Init(&pq)
 	for k, v := range mapping {
-		pq[idx] = &Item{
+		heap.Push(&pq, &Item{
 			key: k,
 			val: v,
-		}
-		idx++
+		})
 	}
-	heap.Init(&pq)
 
 	var result []int
 	for i := 0; i < k; i++ {
